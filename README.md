@@ -11,3 +11,5 @@ This repository contains
 * [Testversion](ResNet50_Tumor_Classifier_and_Explainer_Testversion.ipynb), which has been used for the evaluation of implementation. This version is shortened and has some adjustments for interview reasons.
 * Tumor Explainer and Classifier, which is the associated Jupyter Notebook to the results of my masters thesis.
 
+## License
+Copyright 2024 Alina Tenne
