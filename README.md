@@ -9,7 +9,7 @@ This brain tumor dataset containing 3064 T1-weighted contrast-inhanced images fr
 ## Modules
 This repository contains
 * [Testversion](ResNet50_Tumor_Classifier_and_Explainer_Testversion.ipynb), which has been used for the evaluation of implementation. This version is shortened and has some adjustments for interview reasons.
-* Tumor Explainer and Classifier, which is the associated Jupyter Notebook to the results of my masters thesis.
+* [Tumor Explainer and Classifier](ResNet50_Tumor_Classifier_and_Explainer.ipynb), which is the associated Jupyter Notebook to the results of my masters thesis.
 
 ## About
 This project has been done by Alina Tenne. References can be found in the associated master's thesis or for implementation techniques and dataset information, in the Jupyter Notebook.
