@@ -1,5 +1,5 @@
 # XAI in Medicine: Python Case Study
-Contains a finetuned ResNet50 by **Ashkay Kumaar M.** and three Explanation Algorithm: IG, GradCAM and LRP.
+Contains a finetuned ResNet50 by **Ashkay Kumaar M.** and three explanation algorithms: IG, GradCAM and LRP.
 
 ## Dataset
 The dataset used to train the model and to explain the model behaviour is the [brain tumor dataset](https://figshare.com/articles/brain_tumor_dataset/1512427) posted by **Jun Cheng** on [figshare.com](figshare.com).
